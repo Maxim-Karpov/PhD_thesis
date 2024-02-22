@@ -8,4 +8,4 @@ The Whole_chromosome_variant_analysis_example.ipynb script used to merge the gen
 <br />
 <br />
 
-![Screenshot](Chromosome_1_DinasPowys_Cwmystwyth.png)
+![Screenshot](Chromosome_1_DinasPowys_vs_Cwmystwyth.png)
