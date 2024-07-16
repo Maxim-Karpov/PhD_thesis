@@ -1,7 +1,7 @@
 This repository contains some of the most substantial Python notebooks I created in my PhD research and used to produce many of the figures found in my thesis. 
 <br />
 <div align="center">
-<img src="Cwmystwyth_gut_208Pb_gradient.gif" width="400" height="400" />
+<img src="Cwmystwyth_gut_208Pb_gradient.gif" width="800" height="800" />
 </div>
 <br />
 **MRE_candidate_gene_discovery_example.ipynb** was used to discover candidate genes that are potentially regulated via the Metal Responsive Element in the genome of *Lumbricus rubellus* (the 18 chromosomes from NCBI accession: GCA_945859625.1).The script requires a FASTA file with your sequence of interest, and the gene prediction data (gtf file) for that sequence. The output of this code is the Suplementary Table 2; Figures 43-49 were produced using elements of the code found in this script.
@@ -13,5 +13,3 @@ The **Whole_chromosome_variant_analysis_example.ipynb** script was used to merge
 <br />
 
 ![Screenshot](Chromosome_1_DinasPowys_vs_Cwmystwyth.png)
-
-![Animation](Cwmystwyth_gut_208Pb_gradient.gif)
