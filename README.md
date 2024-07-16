@@ -9,3 +9,5 @@ The **Whole_chromosome_variant_analysis_example.ipynb** script was used to merge
 <br />
 
 ![Screenshot](Chromosome_1_DinasPowys_vs_Cwmystwyth.png)
+
+![Animation](Cwmystwyth_gut_208Pb_gradient.gif)
